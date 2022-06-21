@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     // ignore: prefer_const_constructors
     return MaterialApp(
-      title: 'Your body',
+      title: 'Atividade 2',
       debugShowCheckedModeBanner: false,
       routes: {
         '/': (context) => const HomePage(),
